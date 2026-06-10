@@ -1,4 +1,4 @@
-\# Git Practice
+# Git Practice
 
 
 
@@ -6,7 +6,7 @@ This repository contains my Git and GitHub learning exercises.
 
 
 
-\## Author
+## Author
 
 
 
@@ -14,23 +14,23 @@ Kumar Jagadeesh
 
 
 
-\## Topics Learned
+## Topics Learned
 
 
 
-\- Git Basics
+- Git Basics
 
-\- Git Commits
+- Git Commits
 
-\- Git Branches
+- Git Branches
 
-\- Git Merge
+- Git Merge
 
-\- GitHub Push
+- GitHub Push
 
 
 
-\## Repository Purpose
+## Repository Purpose
 
 
 
