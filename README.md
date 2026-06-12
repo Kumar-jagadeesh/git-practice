@@ -18,15 +18,11 @@ Kumar Jagadeesh
 
 
 
-- Git Basics
-
-- Git Commits
-
-- Git Branches
-
-- Git Merge
-
-- GitHub Push
+* Git Basics
+* Git Commits
+* Git Branches
+* Git Merge
+* GitHub Push
 
 
 
@@ -35,4 +31,10 @@ Kumar Jagadeesh
 
 
 This repository is used to practice Git and GitHub commands while learning version control.
+
+## Day 9 Learning
+
+
+
+Learning Pull Requests and GitHub Collaboration.
 
